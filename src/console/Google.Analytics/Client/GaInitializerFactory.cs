@@ -12,6 +12,8 @@ namespace Google.Analytics.Analytics.Client
 
         private const string ClientId = "108493017696-b1pkohril2urdl0kit2artuv3433h0b7@developer.gserviceaccount.com";
 
+        private const string ClientId2 = "first-638@ezolead.iam.gserviceaccount.com";
+
         public static BaseClientService.Initializer CreateGaInitializer()
         {
             string[] scopes =
