@@ -1,9 +1,10 @@
 using System;
 //using System.Collections.Generic;
 using Google.Analytics.Analytics.Business;
-using Google.Analytics.Analytics.Infrastructure;
+using Google.Analytics.Business;
+using Google.Analytics.Infrastructure;
 
-namespace Google.Analytics.Analytics
+namespace Google.Analytics
 {
     class Program
     {

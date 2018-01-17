@@ -1,7 +1,6 @@
 using Google.Analytics.Analytics.Domain;
-using Google.Analytics.Analytics.Infrastructure;
 
-namespace Google.Analytics.Analytics.Business
+namespace Google.Analytics.Business
 {
     public static class BillingAnalytics
     {

@@ -1,6 +1,6 @@
 using Google.Analytics.Analytics.Client;
 using Google.Analytics.Analytics.Domain;
-using Google.Analytics.Analytics.Infrastructure;
+using Google.Analytics.Infrastructure;
 using Google.Analytics.Mapping;
 using Google.Analytics.Model.Ga.Dimensions;
 

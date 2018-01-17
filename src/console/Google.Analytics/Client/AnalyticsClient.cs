@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Configuration;
-using Google.Analytics.Analytics.Infrastructure;
+using Google.Analytics.Infrastructure;
 using Google.Analytics.Model.Ga.Dimensions;
 using Google.Apis.Analytics.v3;
 
